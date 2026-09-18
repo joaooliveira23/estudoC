@@ -1,1 +1,3 @@
-.unidade1/*.exe
+unidade1/*.exe
+*.o
+a.out
